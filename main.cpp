@@ -69,7 +69,7 @@ int main()
             }
             else
             {
-                std::cout << "Please use a valid coordinates!" << std::endl;
+                std::cout << "Please use a valid coordinate!" << std::endl;
             }
         }
 
@@ -169,7 +169,7 @@ int main()
             }
             else
             {
-                std::cout << "Please use a valid coordinates!" << std::endl;
+                std::cout << "Please use a valid coordinate!" << std::endl;
             }
         }
 
